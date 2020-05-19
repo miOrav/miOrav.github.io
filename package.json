@@ -1,6 +1,6 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
+    "title": "Elemendi-Hankija",
+    "name": "elemendi-hankija",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
